@@ -7,4 +7,3 @@ export const showToast = {
 };
 
 export { Toaster };
-

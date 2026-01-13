@@ -93,6 +93,7 @@ Update CSS variables in `styles/globals.css`:
 ### Replace Images
 
 Add your own images to `public/assets/` and update the image paths in the respective components:
+
 - Hero images: `components/Hero.tsx`
 - Letter images: `components/MessageCard.tsx`
 - Music covers: `components/Playlist.tsx`
@@ -178,4 +179,3 @@ princess-day/
 ## 📝 License
 
 Made with 💕 for National Princess Day
-

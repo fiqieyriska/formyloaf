@@ -16,7 +16,12 @@ const config: Config = {
       },
       fontFamily: {
         sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
-        display: ['var(--font-display)', 'var(--font-sans)', 'system-ui', 'sans-serif'],
+        display: [
+          'var(--font-display)',
+          'var(--font-sans)',
+          'system-ui',
+          'sans-serif',
+        ],
       },
       boxShadow: {
         soft: '0 4px 20px rgba(0, 0, 0, 0.06)',
@@ -31,4 +36,3 @@ const config: Config = {
 };
 
 export default config;
-

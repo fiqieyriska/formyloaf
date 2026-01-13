@@ -153,15 +153,13 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                 My sweetest Cutiepie,
               </p>
               <p>
-                You&apos;re the calm I reach for and the laugh that brightens my
-                day.
+                Kamulah&apos; ketenangan yang kucari dan tawa yang mencerahkan hariku
               </p>
               <p className="text-[#5a9bb8]">
-                I hope this tiny world made you smile — and whispered how much
-                you mean to me.
+                Kuharap dunia kecil ini membuatmu tersenyum — dan membisikkan betapa berartinya dirimu bagiku.
               </p>
               <p>
-                I&apos;ll keep making memories, big and small, always with you.
+                Aku&apos; akan terus membuat kenangan, besar dan kecil, selalu bersamamu.
               </p>
               <p className="text-[#a67fb8]">
                 Forever yours, in every little universe.

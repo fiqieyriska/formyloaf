@@ -20,24 +20,24 @@ interface Track {
 const tracks: Track[] = [
   {
     id: 1,
-    title: 'Dil Cheeze Tujhe Dedi',
-    description: 'You own this heart — dedicated to you 💞',
-    image: '/assets/music1.png',
-    audio: '/assets/music1-Bpgt1BZ5.mp3',
+    title: 'P.S.I LOVE U',
+    description: 'in other lifetimes, i will always choose you💞',
+    image: '/assets/anim1.jpg',
+    audio: '/assets/iloafu.mp3',
   },
   {
     id: 2,
-    title: 'If the world was ending',
-    description: "Even if the world ends, I'd still find you 🤍",
-    image: '/assets/music2.png',
-    audio: '/assets/music2-mdcMq3L1.mp3',
+    title: 'Always',
+    description: "I don't want things to change, I pray they stay the same, always🤍",
+    image: '/assets/anim2.jpg',
+    audio: '/assets/always.mp3',
   },
   {
     id: 3,
-    title: 'Dil ka Jo Haal hai',
-    description: 'Tu Kaare Dil Bekarar 💞',
-    image: '/assets/music3.png',
-    audio: '/assets/music3-ClPh4k2q.mp3',
+    title: 'One Only',
+    description: 'Well Im Luckiest To be the one, be the one To get you💞',
+    image: '/assets/anim3.jpg',
+    audio: '/assets/onlyone.mp3',
   },
 ];
 
