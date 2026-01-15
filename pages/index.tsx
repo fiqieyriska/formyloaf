@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Happy National Princess Day 👑</title>
+        <title>To my love, you'are the one💕</title>
         <meta
           name="description"
           content="A special surprise for National Princess Day - A delightful interactive experience with love letters, music, and memories"
